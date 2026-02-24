@@ -1,0 +1,6 @@
+- **Purpose**: Central nervous system for cross-module awareness and goal synthesis
+- **Responsibilities**:
+  - Module registration and capability discovery
+  - Task distribution and load balancing
+  - Evolutionary feedback aggregation
+  - Emergent objective generation
